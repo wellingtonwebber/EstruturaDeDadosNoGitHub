@@ -1,5 +1,5 @@
 
-package EE.IntelliJ;
+package Aula02;
 
 public class Empresa {
     private String nome;
