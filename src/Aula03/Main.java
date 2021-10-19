@@ -3,7 +3,7 @@ package Aula03;
 public class Main {
     public static void main(String[] args) {
 
-        Aluno aluno[] = new Aluno[5];
+        Aluno[] aluno = new Aluno[5];
 
         aluno[0] = new Aluno("Wellington", 23, "ADS");
         aluno[1] = new Aluno("Luisa", 15, "ADS");
