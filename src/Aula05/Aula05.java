@@ -70,7 +70,7 @@ public class Aula05 {
         posicoes = Matriz.buscarTodasPosicoesPalavra(matriz, "matriz");
 
 
-        //mostra a matriz com cada posição que contenha a palavra buscada sendo 1
+        //mostra a matriz com cada posição = 1 que contenha a palavra buscada
         for(int i = 0; i < posicoes.length; i++){
             for(int j = 0; j < posicoes[i].length; j++){
                 System.out.println("Posição[" + i + "][" + j + "] = " + posicoes[i][j]);
